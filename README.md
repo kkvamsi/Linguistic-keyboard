@@ -1,2 +1,16 @@
 # Regional-keyboard
-Enable regional character generation through a virtual keyboard for different languages
+Enable regional character generation through a virtual keyboard for different languages</br>
+
+<b>Presently Supported languages:</b></br>
+-Telugu</br>
+
+<b>Done using:</br></b>
+-Java Script</br>
+-HTML</br>
+-jQuery</br>
+
+</br><b>Possible improvements:</b></br>
+</br>
+-Include all possible languages</br>
+-Integrate with social media platforms enabling content in regional language</br>
+-Refine and redesign the layout(Possibly smaller then present layout)</br>
