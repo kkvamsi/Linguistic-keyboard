@@ -1,4 +1,4 @@
-# Regional-keyboard
+# Linguistic-keyboard
 Enable regional character generation through a virtual keyboard for different languages<br/>
 
 <b>Presently Supported languages:</b><br/>
